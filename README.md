@@ -15,4 +15,4 @@
 - 유저가 1~100 범위 밖에 숫자를 입력하면 알려준다. 기회를 깎지 않는다.
 - 유저가 이미 입력한 숫자를 또 입력하면 알려준다. 기회를 깎지 않는다.
 
-게임데모 : github.com/Sukyung-Park/Mini-Game.
+게임데모 : https://genuine-crostata-8fdfff.netlify.app
